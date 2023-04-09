@@ -1,0 +1,5 @@
+green
+orange 
+pink 
+red 
+training string
